@@ -1,0 +1,30 @@
+{
+  "files": {
+    "app.js": "/static/js/app.ad45f7e7.chunk.js",
+    "app.js.map": "/static/js/app.ad45f7e7.chunk.js.map",
+    "runtime~app.js": "/static/js/runtime~app.27401809.js",
+    "runtime~app.js.map": "/static/js/runtime~app.27401809.js.map",
+    "static/js/2.23b43e35.chunk.js": "/static/js/2.23b43e35.chunk.js",
+    "static/js/2.23b43e35.chunk.js.map": "/static/js/2.23b43e35.chunk.js.map",
+    "fonts/MaterialCommunityIcons.ttf": "/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/Roboto-Bold.ttf": "/./fonts/Roboto-Bold.ttf",
+    "fonts/Roboto-Light.ttf": "/./fonts/Roboto-Light.ttf",
+    "fonts/Roboto-Medium.ttf": "/./fonts/Roboto-Medium.ttf",
+    "fonts/Roboto-Regular.ttf": "/./fonts/Roboto-Regular.ttf",
+    "fonts/Roboto-Thin.ttf": "/./fonts/Roboto-Thin.ttf",
+    "favicon-16.png": "/favicon-16.png",
+    "favicon-32.png": "/favicon-32.png",
+    "favicon.ico": "/favicon.ico",
+    "index.html": "/index.html",
+    "manifest.json": "/manifest.json",
+    "serve.json": "/serve.json",
+    "static/js/2.23b43e35.chunk.js.LICENSE.txt": "/static/js/2.23b43e35.chunk.js.LICENSE.txt",
+    "static/media/home-art.png": "/static/media/home-art.f9addeb3.png",
+    "static/media/logo_variant.png": "/static/media/logo_variant.2ba85d3d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.27401809.js",
+    "static/js/2.23b43e35.chunk.js",
+    "static/js/app.ad45f7e7.chunk.js"
+  ]
+}
